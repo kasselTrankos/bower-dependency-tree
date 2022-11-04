@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ChrisKraljevicD2L/bower-dependency-graph#readme",
   "dependencies": {
-    "graph-js": "git://github.com/ChrisKraljevicD2L/graph-js.git#7b6998cfdbbe905e24655e8b25fea3cd72067d43",
+    "graph-js": "git+https://github.com/ChrisKraljevicD2L/graph-js#7b6998cfdbbe905e24655e8b25fea3cd72067d43",
     "prettyjson": "^1.2.1",
     "yargs": "^11.0.0"
   },
